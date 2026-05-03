@@ -45,7 +45,8 @@ Data Sources → Data Factory → OneLake → Lakehouse → Transformation → W
 
 ### 4. Medallion Architecture
 
-![Medallion](architecture/medallion-architecture.png)
+<img width="1128" height="432" alt="1 2 - Medallion Architecture" src="https://github.com/user-attachments/assets/e40707cc-65bc-45dd-a0d4-f98b17f94cbb" />
+
 
 - Bronze → Raw data
 - Silver → Cleaned data
@@ -132,7 +133,7 @@ Data Sources → Data Factory → OneLake → Lakehouse → Transformation → W
 
 - Built scalable data pipelines using Fabric Data Factory
 - Implemented metadata-driven pipeline design
-- Designed lakehouse-based architecture using Medallion model
+- Designed lakehouse-based architecture using the Medallion model
 - Applied dimensional modeling for analytics
 - Optimized data storage and query performance
 
@@ -150,10 +151,4 @@ Data Sources → Data Factory → OneLake → Lakehouse → Transformation → W
 
 This project demonstrates how Microsoft Fabric simplifies modern data architecture by unifying data engineering, warehousing, and analytics into a single platform.
 
----
 
-## 🔗 Future Enhancements
-
-- Power BI dashboard integration
-- Advanced ML model deployment
-- Real-time streaming pipeline
