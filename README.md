@@ -1,3 +1,12 @@
+📌 Overview
+
+This project demonstrates a complete end-to-end data platform built using Microsoft Fabric, covering data ingestion, transformation, storage, modeling, and analytics.
+The goal was to simulate a real-world enterprise data workflow using modern lakehouse architecture and Fabric-native tools.
+
+<img width="827" height="913" alt="1 2 - Sankalp Fabric Workspace" src="https://github.com/user-attachments/assets/8355c1e2-7cb8-4c38-8817-592ab0fc7da4" />
+
+
+
 ## 🏗️ Architecture Overview
 
 <img width="586" height="358" alt="1 1 - Fabric Architecture" src="https://github.com/user-attachments/assets/75845de2-0d02-4c71-b83a-a68e7d67d702" />
