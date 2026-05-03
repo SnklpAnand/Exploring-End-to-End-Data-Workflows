@@ -1,6 +1,7 @@
 ## 🏗️ Architecture Overview
 
-![Architecture](architecture/fabric-architecture.png)
+<img width="586" height="358" alt="1 1 - Fabric Architecture" src="https://github.com/user-attachments/assets/75845de2-0d02-4c71-b83a-a68e7d67d702" />
+
 
 ### Flow:
 Data Sources → Data Factory → OneLake → Lakehouse → Transformation → Warehouse → Power BI
