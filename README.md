@@ -36,6 +36,9 @@ Data Sources → Data Factory → OneLake → Lakehouse → Transformation → W
 - Filter and clean data
 - Create derived columns
 
+<img width="1522" height="473" alt="1 1 - Data Flow Gen 2" src="https://github.com/user-attachments/assets/ed8e057c-dad9-4c53-873a-c7846cdf057f" />
+
+
 #### PySpark Notebooks
 - Data ingestion using Spark
 - Column transformations
